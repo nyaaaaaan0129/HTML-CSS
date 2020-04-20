@@ -214,23 +214,20 @@ footer {
     width: 100%;
     margin: 0 0 10px 0;
   }
-
-  .social{
+   .social {
     display: none;
   }
-  .main-visual-content{
+  .main-visual-content {
     width: 100%;
   }
   main {
     width: 100%;
   }
-
   .blog {
     width: 100%;
     margin: 0;
   }
-
-  .blog-box{
+  .blog-box {
     padding-left: 2%;
     padding-right: 2%;
   }
@@ -250,11 +247,10 @@ footer {
     width: 48%;
     padding-top: 48%;
   }
-
   .instagram-box:nth-child(odd) {
     margin-right: 4%;
   }
-
   .pagination { 
    margin-bottom: 50px;
-  }}
+  }
+}
